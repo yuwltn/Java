@@ -15,9 +15,7 @@
 <summary>1. @Override </summary>
 <div markdown="1">
 		<ul>
-          <li> 오버라이딩의 조건</li>
-          <li> 김영한, 스프링 입문 </li>
-          <li> 이도원, 웹 애플리케이션 개발을 위한 IntelliJ IDEA 설정 </li>
+			<li> 오버라이딩의 조건</li>
 
   </ul>
 </div>
